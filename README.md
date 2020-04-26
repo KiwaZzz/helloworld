@@ -1,2 +1,3 @@
-# helloworld
-my first public repository
+# readme
+my artical repository
+click to link to artical
